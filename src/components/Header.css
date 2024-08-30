@@ -1,0 +1,13 @@
+.container-head{
+    background-color: gray;
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: plum;
+    background-color: white;
+    font-size: 20px;
+    padding-left:120px ;
+
+}
